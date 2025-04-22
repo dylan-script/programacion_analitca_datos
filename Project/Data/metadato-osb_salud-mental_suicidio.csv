@@ -1,0 +1,18 @@
+METADATO;DESCRIPCION
+Serie de tiempo desde;2012
+Definición del evento ;Acto autolesivo intencionado con resultado de muerte
+Utilidad ;La tasa de los eventos de cada una de las tipologías de la conducta suicida es considerada uno de los principales indicadores de la salud mental, permitiendo identificar grupos que requieren acciones de prevención del evento
+Unidad de medición;"Tasa  de suicidio
+
+"
+Periodicidad;Semestral
+Meta ;A 2031, disminuir la tasa de mortalidad por suicidio y lesiones auto infligidas a 5,0 por 100.000 habitantes (Plan Decenal de Salud Pública 2022-2031)
+Fuente de Información Numerador;"
+* Instituto Nacional de Medicina Legal y Ciencias Forenses - INMLCF - Grupo: Centro de Referencia Nacional sobre Violencia - GCERN Base: Sistema de Información Red de Desaparecidos y Cadáveres - SIRDEC 2012 -2023"
+Fuente de Información Denominador;Proyecciones de Población por Localidad Convenio interadministrativo 095 de 2020 DANE- FONDANE Y SDP con base en CNPV DANE 2018. * 10.000. Actualización Post Covid-19. Proyecciones de población a nivel departamental periodo 2020-2050. DANE 2023. 
+Localidad;Localidad de residencia 
+Sexo;Condición orgánica que distingue a los machos de las hembras
+Año;Periodo de recolección de la información 
+Formula de cálculo;"
+
+Número de casos de mortalidad por suicidio/ Población distrital y localidad * 100.000 HB"
